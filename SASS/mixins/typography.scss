@@ -1,0 +1,22 @@
+
+/**
+ * Author: Conor Luddy
+ */
+
+
+/**
+ * Some things shouldn't be highlighted on selection
+ */
+@mixin transparent-selection {
+    &::selection {
+        background: transparent;
+        color: inherit;
+    }
+}
+
+/**
+ * Converts the letter spacing units you get in Photoshop, to EMs.
+ */
+@mixin photoshop-letter-spacing($number) {
+    letter-spacing: ($number * 1em) / 1000;
+}
