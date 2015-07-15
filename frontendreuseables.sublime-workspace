@@ -1,0 +1,1921 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"pre",
+				"prependTo	.prependTo()"
+			],
+			[
+				"appe",
+				"appendTo	.appendTo()"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"home_",
+				"home_url〔function〕"
+			],
+			[
+				"get_site_",
+				"get_site_url〔function〕"
+			],
+			[
+				"toggle",
+				"toggleClass    (fn)  [E]"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"outer",
+				"outerHeight	.outerHeight()"
+			],
+			[
+				"na",
+				"navHeight"
+			],
+			[
+				"lookup",
+				"lookupUnavail"
+			],
+			[
+				"looku",
+				"lookupUnavail"
+			],
+			[
+				"innerhtml",
+				"innerHTML"
+			],
+			[
+				"Sticky",
+				"stickyFreeze"
+			],
+			[
+				"mod",
+				"modifiedClass"
+			],
+			[
+				"link",
+				"linkHref"
+			],
+			[
+				"reg",
+				"regNo"
+			],
+			[
+				"has",
+				"hashIdMatch"
+			],
+			[
+				"id",
+				"idIndex"
+			],
+			[
+				"scr",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"selected",
+				"selectedIndex"
+			],
+			[
+				"form",
+				"formInitialised"
+			],
+			[
+				"hidden",
+				"hiddenEngine"
+			],
+			[
+				"rem",
+				"removeClass	.removeClass()"
+			],
+			[
+				"vehicle",
+				"vehicleJSON"
+			],
+			[
+				"resp",
+				"responsiveImages"
+			],
+			[
+				"ba",
+				"backupEl"
+			],
+			[
+				"place",
+				"placeholders"
+			],
+			[
+				"modu",
+				"modules"
+			],
+			[
+				"chil",
+				"childEls"
+			],
+			[
+				"childE",
+				"childEl"
+			],
+			[
+				"wra",
+				"wrapper"
+			],
+			[
+				"paren",
+				"parentEl"
+			],
+			[
+				"module",
+				"moduleFuncs"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"fist",
+				"firstPx"
+			],
+			[
+				"use-",
+				"use-gb"
+			],
+			[
+				"clic",
+				"clicked"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"fSie",
+				"fSizeNumber"
+			],
+			[
+				"action",
+				"actionBar"
+			],
+			[
+				"act",
+				"actionBar"
+			],
+			[
+				"from",
+				"fromTop"
+			],
+			[
+				"img",
+				"imgr"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mous",
+				"mouseenter	.mouseenter()"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"res",
+				"resize	.resize()"
+			],
+			[
+				"border-top",
+				"border-top-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"doc",
+				"docRetrievalPath"
+			],
+			[
+				"docRe",
+				"docRetrievalTpls"
+			],
+			[
+				"tar",
+				"targetSelector"
+			],
+			[
+				"swit",
+				"switchEl"
+			],
+			[
+				"i",
+				"img	Image - Placeholder"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"wait",
+				"waitMsg"
+			],
+			[
+				"mat",
+				"matchStr"
+			],
+			[
+				"test",
+				"testable"
+			],
+			[
+				"triple",
+				"tripleInput"
+			],
+			[
+				"date",
+				"dateStr"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"dd",
+				"dd"
+			],
+			[
+				"accep",
+				"acceptKey"
+			],
+			[
+				"maxl",
+				"maxLength"
+			],
+			[
+				"prop",
+				"prop	.prop() - single"
+			],
+			[
+				"tes",
+				"testAscii"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"te",
+				"testDate"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"on",
+				"on	.on()"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"trigg",
+				"triggers"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"list-st",
+				"list-style"
+			],
+			[
+				"modul",
+				"moduleName"
+			],
+			[
+				"modules",
+				"modulesOnPage"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"ec",
+				"each	.each()"
+			],
+			[
+				"eac",
+				"each	.each()"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"targ",
+				"targets"
+			],
+			[
+				"jsmo",
+				"jsmodule-ii	Self executing module for Liberty Insurance"
+			],
+			[
+				"switch",
+				"switchField"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"noti",
+				"notificationDelay"
+			],
+			[
+				"JS",
+				"jshint"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"style",
+				"styleguide"
+			],
+			[
+				"styl",
+				"styleguide"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"Un",
+				"unhighlight"
+			],
+			[
+				"list",
+				"listItemClass"
+			],
+			[
+				"current",
+				"currentOffence"
+			],
+			[
+				"two",
+				"twoOutOfThreeAintBad"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"borde",
+				"border-width"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"post",
+				"postcount"
+			],
+			[
+				"n",
+				"none"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "prett",
+		"selected_items":
+		[
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format as CSS Syntax"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"for",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"convert",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"sass",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"css",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"conver",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"enbl",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"disap",
+				"Package Control: Disable Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"html ",
+				"HTMLPrettify"
+			],
+			[
+				"Snippet: swig",
+				"Snippet: liberty-include-swig-btn"
+			],
+			[
+				"scss",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"snipper",
+				"Snippet: Self executing module for Liberty Insurance"
+			],
+			[
+				"swig",
+				"Snippet: liberty-include-swig-name"
+			],
+			[
+				"snippet: sw",
+				"Snippet: liberty-include-swig-tpl"
+			],
+			[
+				"Snippet: js",
+				"Snippet: js-console-group"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"fora",
+				"Format: Javascript"
+			],
+			[
+				"sortby",
+				"SortBy: Alphabetically"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"code",
+				"Format Code"
+			],
+			[
+				"bea",
+				"SassBeautify"
+			],
+			[
+				"com",
+				"Sort via CSScomb"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"conv",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"Snippet: jqu",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"comb",
+				"Sort via CSScomb"
+			],
+			[
+				"sas",
+				"SassBeautify"
+			],
+			[
+				"cssc",
+				"Sort via CSScomb"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"s",
+				"SassBeautify"
+			],
+			[
+				"tab",
+				"Snippet: table - Placeholder"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/conorluddy/Development/FrontEndReuseables"
+	],
+	"file_history":
+	[
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/lets-talk/large.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/js/modules/nav-top/module.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/js/core/device.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/js/core/application.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/gulp/javascripts.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/js/modules/_template/module.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/nav-top/small.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/module/nav-top/module.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/js/core/init.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/js/core/config.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/gulp/dev.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/public/js/eachand.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/nav-top/large.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/base/visibility.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/nav-top/medium.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/base/easing.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/js/eo-namespace.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/public/css/eachand.css",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/base/animations.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/hero/small.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/mixins/layout.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/base/typography.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/mixins/typography.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/base/fonts.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/settings/typography.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/mixins/bourbon/css3/_keyframes.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/module/footer/module.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/blog-post/medium.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/blog-post/large.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/index.html",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/footer/large.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/footer/small.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/footer/medium.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/module/blog-post/module.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/blog-post/small.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/EachAnd.sublime-project",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/base/grid.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/_config/modules.json",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/module-groups/blog-posts/medium.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/module-groups/blog-posts/large.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/module-groups/blog-posts/small.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/module/hero/module.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/svg/arrow.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/svg/all.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/svg/arrow-down.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/module/case-study/module.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/_config/module-groups.json",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/case-study/medium.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/case-study/large.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/case-study/small.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/module-groups/case-studies/small.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/module-groups/case-studies/large.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/module-groups/case-studies/medium.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/eachand.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/gulp/css.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/_config/module-groups.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/_config/mixins.json",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/module/consultants/module.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/consultants/small.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/consultants/medium.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/js/application.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/base/breakpoints.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/consultants/large.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/js/device.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/statement/medium.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/mixins/fonts.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/module/clients/module.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/module/_template/module.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/lets-talk/medium.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/module/lets-talk/module.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/lets-talk/small.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/_config/base.json",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/clients/small.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/clients/medium.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/clients/large.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/statement/small.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/gulp/graphics.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/statement/large.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/module/statement/module.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/.scss-lint.yml",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/settings/grid.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/_modules.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/_config/settings.json",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/lib/normalize.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/_config/modules.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/settings/breakpoints.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/gulpfile.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/package.json",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/components/lists.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/components/svg.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/base/transitions.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/.jsbeautifyrc",
+		"/Users/conorluddy/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/svg/business.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/svg/brain.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/base/colours.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/document/document.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/js/lib/modernizr.custom.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/svg/logo.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/base/svg-sprite.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/_config/components.json",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/public/svg/sprite.svg",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/assets/svg/logo.svg",
+		"/Users/conorluddy/Development/EachAndWebsite/Assets/SVG/logo-pink.svg",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/svg",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/hero/medium.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/modules/hero/large.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/_mixins.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/gulp/svg.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/gulp/swig.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/public/index.html",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/_settings.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/_base.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/mixins/neat/functions/_private.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/script/webfont.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/_config/lib.json",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/_config/include.tpl",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass/base/buttons.scss",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/README.md",
+		"/Users/conorluddy/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/conorluddy/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/gulp/html.js",
+		"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html/readme.md",
+		"/Users/conorluddy/Development/Airtricity/airtricity-faq/trunk/cms2/mysite/_config.php",
+		"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/js/modules/table-filters.js",
+		"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/html/modules/footer/footer-minimal.tpl",
+		"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/html/templates/username-reset-invalid.html",
+		"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/html/templates/username-reset.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass",
+			"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html",
+			"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass",
+			"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html",
+			"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass",
+			"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/html",
+			"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/hmtl",
+			"/Users/conorluddy/Development/EachAndWebsite/eachandother-com/sass",
+			"",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/html/templates/",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/html",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/less",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/less2",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/tpl",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/less2",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/less2",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/js",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/less2",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/less",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/less2",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/less2",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2//js",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/public/js",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/less2",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/less2",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/less2",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/less",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/less",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/js",
+			"/Users/conorluddy/Development/Airtricity/airtricity-oss-templates/branches/release-2/less",
+			"/Users/conorluddy/Development/Driftbros/wp-content/themes/driftbros",
+			"/Users/conorluddy/Development/Driftbros/",
+			"/Users/conorluddy/Development/Driftbros/wp-content/themes/driftbros",
+			"/Users/conorluddy/Development/Driftbros/",
+			"/Users/conorluddy/Development/Driftbros/wp-content/themes/driftbros",
+			"/Users/conorluddy/Development/Driftbros/",
+			"/Users/conorluddy/Development/Driftbros/wp-content/themes/driftbros",
+			"/Users/conorluddy/Development/Driftbros/",
+			"/Users/conorluddy/Development/Driftbros/wp-content/themes/driftbros",
+			"/Users/conorluddy/Development/Driftbros/",
+			"/Users/conorluddy/Development/Driftbros/wp-content/themes/driftbros",
+			"/Users/conorluddy/Development/Driftbros/",
+			"/Users/conorluddy/Development/Driftbros/wp-content/themes/driftbros",
+			"/Users/conorluddy/Development/Driftbros/",
+			"/Users/conorluddy/Development/Driftbros/wp-content/themes/driftbros",
+			"/Users/conorluddy/Development/Driftbros/",
+			"/Users/conorluddy/Development/Driftbros/wp-content/themes/driftbros",
+			"/Users/conorluddy/Development/Driftbros/",
+			"/Users/conorluddy/Development/Driftbros/wp-content/themes/driftbros",
+			"/Users/conorluddy/Development/Driftbros/",
+			"/Users/conorluddy/Development/Driftbros/wp-content/themes/driftbros",
+			"/Users/conorluddy/Development/Driftbros/wp-content/",
+			"/Users/conorluddy/Development/Driftbros/wp-content/themes/driftbros",
+			"/Users/conorluddy/Development/Driftbros/",
+			"/Users/conorluddy/Development/Driftbros/wp-content/themes/driftbros",
+			"",
+			"/Users/conorluddy/Development/driftbros/",
+			"/Users/conorluddy/Development/driftbros/wp-content/",
+			"/Users/conorluddy/Development/driftbros/wp-content/themes/driftbros",
+			"",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/themes/quinn-2015/templates",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/themes/liberty-2014/templates",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/themes/liberty-2014/templates",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/javascript",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/themes/liberty-2014/templates",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/javascript",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/themes/liberty-2014/templates",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/themes/liberty-2014",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/themes/liberty-2014",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/themes/liberty-2014",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/javascript",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/js",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/sass",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/themes/liberty-2014",
+			"/Users/conorluddy/Development/liberty-insurance-cms-2014/trunk/HTML/tpl"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"APP",
+			"link-hover",
+			"<module name>",
+			"APP",
+			"is-only-visible-on-small",
+			"is-hidden-on-large",
+			"is-only-visible-on-large",
+			"is-hidden-on-small",
+			"$baseFontSize",
+			"svg-logo",
+			"animation",
+			"link-hover",
+			"keyframe",
+			"se-studies -full-width -grey-bg -no-edge-padding",
+			"arrow-down",
+			"svg-arrow-down",
+			"%link-hover-effect",
+			".-grey-bg",
+			" -grey-bg",
+			".inner-wrap",
+			"-full-width",
+			"$desktop",
+			"$tablet",
+			"false",
+			"In",
+			"Out",
+			"false",
+			"src:url",
+			"\"",
+			"st0",
+			"\"",
+			"Primary content font",
+			"box-sizing: border-box;",
+			"apply a natural box layout model to all elements, but allowing components to change",
+			"EO.",
+			"sseairtricity",
+			"{% include \"../modules/footer/footer.tpl\" %}",
+			"{% include \"../modules/footer.tpl\" %}",
+			".bill-amount p.bill-display strong, p.bill-display strong",
+			"31px",
+			"bill",
+			".bill-amount div.info a",
+			".last-overdue .overdue #amount",
+			".clearfix",
+			"bill",
+			".bill-amount",
+			".statement-number",
+			"css.mustache",
+			"autoprefixer: off",
+			"-105px -362px",
+			"icon-users",
+			"icons.png",
+			"assets/icons.png",
+			".header-wrapper .nav-main li.first a:after",
+			".left-nav",
+			"183.81",
+			"#meter-reading-reminder",
+			"accordion-trigger",
+			".reset-table-filters",
+			"remove filters",
+			".paginate_button",
+			".feedback",
+			"extend",
+			"eter reading seems very high,",
+			"meterReadingGasForm",
+			"meter-reading-header",
+			"alidation JS initialising...",
+			"meter-reading-header",
+			".submit-reading",
+			"submit-reading",
+			"meter-reading-header",
+			"data-tooltip-content",
+			"#responsive-tooltip",
+			".satisfied",
+			"password",
+			"error",
+			"\"",
+			"icon-success",
+			"icon-info",
+			"-house-move",
+			"password-form",
+			"-pseudo-decimal",
+			".btn",
+			"personal-details-addr",
+			"error-row",
+			".submit",
+			".form-details",
+			"form-details",
+			"form-page",
+			".form-details",
+			"icon",
+			"text",
+			"clearfix",
+			".icon-arrow-right-grey",
+			".form-details",
+			"login",
+			"tooltip",
+			"tips",
+			"20px",
+			"#account-information",
+			"#delete-card-notice",
+			"div",
+			"addclass('open",
+			".right-column",
+			"errorPlacement",
+			"disableButtonAndDoSubmit",
+			"validate",
+			"extend",
+			"By: Conor Luddy - iQContent",
+			"$",
+			".header-wrapper",
+			"left_links",
+			"#navigation",
+			"#options",
+			"#menu",
+			"#options",
+			".header-wrapper",
+			"UsernameUsername",
+			"Password",
+			"password",
+			"Password",
+			"password",
+			"extend",
+			".icon-arrow-left-white",
+			".mod-breadcrumbs",
+			"extend",
+			".container",
+			"bordered"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"navTop",
+			"EachAnd",
+			"in",
+			"out",
+			"true",
+			"src: url",
+			"'",
+			"{% include \"../modules/footer/footer-minimal.tpl\" %}",
+			"{% include \"../modules/footer/footer.tpl\" %}",
+			"'",
+			"//dbbbp_breadcrumb()",
+			"dbbbp_breadcrumb(",
+			"172",
+			"208x208",
+			"message.regFormIntro",
+			"enforceActBarVisibility",
+			"0",
+			"bounceToQuoteFormOnFails",
+			"../",
+			"pd1",
+			"2",
+			"~",
+			"dob",
+			"aux",
+			"ie-gb(",
+			"<script src=\"../js",
+			"../",
+			" <span><span></span></span>",
+			" ",
+			"'",
+			"f2f2f2",
+			"",
+			"~",
+			"setup",
+			"stickyNav",
+			" 0",
+			"0",
+			"dr",
+			"DocumentRetrieval",
+			"dr",
+			"instalment",
+			"$large-up-query",
+			"$medium-only-query",
+			"$small-only-query",
+			"data-js-module=\"validation\" method=\"post\"",
+			"media($mq-S)",
+			"media($mq-M)",
+			"media($mq-L)",
+			"'",
+			"block-main-nav",
+			"block-footer",
+			"block-wide",
+			"#444a50",
+			"#0060a1",
+			"#babcbf",
+			"#bababa",
+			"#fff",
+			"#f48730",
+			"#e6efc2",
+			"#fff6bf",
+			"#fbe3e4",
+			"#dadee0",
+			"#bbbdc0",
+			"#ddd",
+			"#477dca",
+			"// ",
+			"",
+			"// ",
+			"//",
+			"'",
+			"src=\"../images",
+			"\"../css",
+			"src=\"../css",
+			"src=\"../js",
+			"{% include \"../_",
+			"{% extends '../../_layouts/lit-templates/_main.tpl' %}",
+			"{% set h1 = \"Document request\" %}",
+			"'",
+			"buttonField",
+			"data-js-module=\"loadingMessage\" data-wait=\"",
+			"IBAN",
+			") {",
+			")",
+			"(",
+			"1890 89 1890",
+			"e.which",
+			"'",
+			"nul",
+			"inv",
+			"    ",
+			"enabled: false",
+			"enabled: true",
+			"enabled: false",
+			"'",
+			"enabled: true",
+			"enabled: false",
+			"label",
+			"<div class=\"L8 M8 push-L2 push-M2\">",
+			"{% set helpText = true %}",
+			"",
+			"class=\"block\"",
+			"insertNewOffence",
+			"insertNewClaim",
+			"$list",
+			"$form",
+			"$list",
+			"^=",
+			"claim",
+			"Claim",
+			"Claims",
+			"claims",
+			"purgeData",
+			"currentFieldset",
+			"$currentSection",
+			".fs",
+			"$.validator.format",
+			"tooltip",
+			"",
+			"loader",
+			"liberty.",
+			"&",
+			"iqcontent",
+			"IQContent",
+			"url('/../",
+			"../../../../themes/iq3.0/img/icons.png",
+			"../../../../themes/iq3.0/fonts/",
+			"../../../../../themes/iq3.0/fonts/",
+			"../themes/iq3.0/fonts/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 80.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Sublime-JSHint/JSHint.sublime-build",
+	"project": "frontendreuseables.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"visib",
+				"SASS/base/visibility.scss"
+			],
+			[
+				"eas",
+				"SASS/base/easing.scss"
+			],
+			[
+				"visi",
+				"SASS/base/visibility.scss"
+			],
+			[
+				"easing",
+				"SASS/base/easing.scss"
+			],
+			[
+				"animat",
+				"SASS/base/animations.scss"
+			],
+			[
+				"typo",
+				"SASS/mixins/typography.scss"
+			],
+			[
+				"layout",
+				"SASS/mixins/layout.scss"
+			],
+			[
+				"visibi",
+				"SASS/base/visibility.scss"
+			],
+			[
+				"navmodule",
+				"HTML [modules]/module/nav-top/module.tpl"
+			],
+			[
+				"footersmall",
+				"SASS/modules/footer/small.scss"
+			],
+			[
+				"footermed",
+				"SASS/modules/footer/medium.scss"
+			],
+			[
+				"footerla",
+				"SASS/modules/footer/large.scss"
+			],
+			[
+				"index",
+				"HTML [modules]/index.html"
+			],
+			[
+				"fonts",
+				"SASS/base/fonts.scss"
+			],
+			[
+				"index.",
+				"HTML [modules]/index.html"
+			],
+			[
+				"index.htm",
+				"HTML [modules]/index.html"
+			],
+			[
+				"base/typography.scss",
+				"SASS/base/typography.scss"
+			],
+			[
+				"grid.scss",
+				"SASS/base/grid.scss"
+			],
+			[
+				"animations",
+				"SASS/base/animations.scss"
+			],
+			[
+				"font",
+				"SASS/mixins/fonts.scss"
+			],
+			[
+				"typ",
+				"SASS/base/typography.scss"
+			],
+			[
+				"mixintyp",
+				"SASS/mixins/typography.scss"
+			],
+			[
+				"norma",
+				"SASS/lib/normalize.scss"
+			],
+			[
+				"svg",
+				"SASS/components/svg.scss"
+			],
+			[
+				"components/lists.scss",
+				"SASS/components/lists.scss"
+			],
+			[
+				"typography.scss",
+				"SASS/base/typography.scss"
+			],
+			[
+				"mixins/typography.scss",
+				"SASS/mixins/typography.scss"
+			],
+			[
+				"mixins/fonts.scss",
+				"SASS/mixins/fonts.scss"
+			],
+			[
+				"transitions",
+				"SASS/base/transitions.scss"
+			],
+			[
+				"normalize.scss",
+				"SASS/lib/normalize.scss"
+			],
+			[
+				"base/grid.scss",
+				"SASS/base/grid.scss"
+			],
+			[
+				"colurs",
+				"SASS/base/colours.scss"
+			],
+			[
+				"grid",
+				"SASS/base/grid.scss"
+			],
+			[
+				"colours",
+				"SASS/base/colours.scss"
+			],
+			[
+				"colo",
+				"SASS/base/colours.scss"
+			],
+			[
+				"normaliz",
+				"SASS/lib/normalize.scss"
+			],
+			[
+				"heromodule",
+				"HTML [modules]/module/hero/module.tpl"
+			],
+			[
+				"navtopmo",
+				"HTML [modules]/module/nav-top/module.tpl"
+			],
+			[
+				"neat/functions/_private.scss",
+				"SASS/mixins/neat/functions/_private.scss"
+			],
+			[
+				"modules/table-filters.js",
+				"Release 2/js/modules/table-filters.js"
+			],
+			[
+				"submit-meter-reading-overlay.tpl",
+				"SWIG | Modules/forms/submit-meter-reading-overlay.tpl"
+			],
+			[
+				"meter-reading-overlay.tpl",
+				"SWIG | Modules/meter-reading-overlay.tpl"
+			],
+			[
+				"release-2/less/components/icons.less",
+				"Airtricity/airtricity-oss-templates/branches/release-2/less/components/icons.less"
+			],
+			[
+				"meter-reading/meter-reading-reminder.tpl",
+				"Release 2/html/modules/meter-reading/meter-reading-reminder.tpl"
+			],
+			[
+				"headerjs",
+				"SWIG | Modules/javascript/header_js.tpl"
+			],
+			[
+				"javascript/header_js.tpl",
+				"SWIG | Modules/javascript/header_js.tpl"
+			],
+			[
+				"gulpjavasc",
+				"Release 2/gulp/javascripts.js"
+			],
+			[
+				"jquery.tools.min-1.2.6.js",
+				"R2 - JS/jquery.tools.min-1.2.6.js"
+			],
+			[
+				"css.",
+				"Release 2/gulp/css.js"
+			],
+			[
+				"config",
+				"Release 2/html/config.tpl"
+			],
+			[
+				"form",
+				"R2 - LESS2/base/forms.less"
+			],
+			[
+				"header/links",
+				"SWIG | Modules/header/links.tpl"
+			],
+			[
+				"typog",
+				"R2 - LESS2 - RSPNSV/base/typography.less"
+			],
+			[
+				"varia",
+				"R2 - LESS2 - RSPNSV/base/variables.less"
+			],
+			[
+				"vaira",
+				"R2 - LESS/base/variables.less"
+			],
+			[
+				"icons",
+				"R2 - LESS/components/icons.less"
+			],
+			[
+				"css-2x.mustache",
+				"Release 2/css-2x.mustache"
+			],
+			[
+				"img",
+				"Release 2/gulp/img.js"
+			],
+			[
+				"icon.",
+				"R2 - LESS/components/icon.less"
+			],
+			[
+				"variable",
+				"R2 - LESS/base/variables.less"
+			],
+			[
+				"modlogin",
+				"R2 - LESS/modules/mod-login.less"
+			],
+			[
+				"modifi",
+				"R2 - LESS/modifiers/modifiers.less"
+			],
+			[
+				"pac",
+				"Release 2/package.json"
+			],
+			[
+				"functionbadge",
+				"Theme/functions-driftbros-badges.php"
+			],
+			[
+				"header",
+				"Root/wp-content/themes/driftbros/header.php"
+			],
+			[
+				"loopforumlan",
+				"DBBB Templates/loop-forums-landing.php"
+			],
+			[
+				"badges",
+				"Theme/sass/typography/_badges.scss"
+			],
+			[
+				"functions",
+				"Theme/functions-driftbros-bbpress.php"
+			],
+			[
+				"footer",
+				"Root/wp-content/themes/driftbros/footer.php"
+			],
+			[
+				"funcbadge",
+				"Theme/functions-driftbros-badges.php"
+			],
+			[
+				"function",
+				"Theme/functions-driftbros-bbpress.php"
+			],
+			[
+				"funct",
+				"Root/wp-content/themes/driftbros/functions.php"
+			],
+			[
+				"looptopicla",
+				"DBBB Templates/loop-topics-landing.php"
+			],
+			[
+				"contentsin",
+				"DBBB Templates/content-single-forum.php"
+			],
+			[
+				"landign",
+				"SASS/bbpress/_landing-forums.scss"
+			],
+			[
+				"badgess",
+				"Theme/sass/typography/_badges.scss"
+			],
+			[
+				"driftbrbadge",
+				"Theme/functions-driftbros-badges.php"
+			],
+			[
+				"home",
+				"Theme/content-homepage.php"
+			],
+			[
+				"functionsdri",
+				"Theme/functions-driftbros-bbpress.php"
+			],
+			[
+				"driftbrofunc",
+				"Root/wp-content/themes/driftbros/functions-driftbros-badges.php"
+			],
+			[
+				"functionbad",
+				"Theme/functions-driftbros-badges.php"
+			],
+			[
+				"icon",
+				"SASS/fontawesome/_icons.scss"
+			],
+			[
+				"recent",
+				"SASS/bbpress/_recent-activity.scss"
+			],
+			[
+				"menu",
+				"SASS/navigation/_menus.scss"
+			],
+			[
+				"func",
+				"Root/wp-includes/functions.php"
+			],
+			[
+				"badgesscss",
+				"Theme/sass/typography/_badges.scss"
+			],
+			[
+				"driftfunct",
+				"Root/wp-content/themes/driftbros/functions-driftbros-badges.php"
+			],
+			[
+				"navi",
+				"Theme/js/navigation.js"
+			],
+			[
+				"easin",
+				"SASS/variables-site/_easings.scss"
+			],
+			[
+				"naviga",
+				"Theme/js/navigation.js"
+			],
+			[
+				"menuscss",
+				"SASS/navigation/_menus.scss"
+			],
+			[
+				"driftcolors",
+				"Root/wp-content/themes/driftbros/sass/variables-site/_colors.scss"
+			],
+			[
+				"recenta",
+				"SASS/bbpress/_recent-activity.scss"
+			],
+			[
+				"element",
+				"SASS/elements/_elements.scss"
+			],
+			[
+				"looprepliesm",
+				"DBBB Templates/loop-replies-minimal.php"
+			],
+			[
+				"loopsingelre",
+				"DBBB Templates/loop-single-reply.php"
+			],
+			[
+				"contentreply",
+				"DBBB Templates/content-single-reply.php"
+			],
+			[
+				"gulp",
+				"Theme/gulpfile.js"
+			],
+			[
+				"funcio",
+				"Theme/functions.php"
+			],
+			[
+				"navigation",
+				"Theme/js/navigation.js"
+			],
+			[
+				"badge",
+				"Theme/functions-driftbros-badges.php"
+			],
+			[
+				"elements",
+				"SASS/elements/_elements.scss"
+			],
+			[
+				"mixinmedia",
+				"SASS/mixins/_mixins-media.scss"
+			],
+			[
+				"menus",
+				"SASS/navigation/_menus.scss"
+			],
+			[
+				"landing",
+				"SASS/bbpress/_landing-forums.scss"
+			],
+			[
+				"",
+				"Root/driftbros.sublime-project"
+			],
+			[
+				"singlescss",
+				"SASS/bbpress/_topic-single.scss"
+			],
+			[
+				"contenthome",
+				"Theme/content-homepage.php"
+			],
+			[
+				"popula",
+				"SASS/bbpress/_population.scss"
+			],
+			[
+				"topicjs",
+				"Root/wp-content/plugins/bbpress/templates/default/js/topic.js"
+			],
+			[
+				"templa",
+				"Root/wp-includes/template.php"
+			],
+			[
+				"driftbrosbadges",
+				"Theme/functions-driftbros-badges.php"
+			],
+			[
+				"driftbrocolo",
+				"Root/wp-content/themes/driftbros/sass/variables-site/_colors.scss"
+			],
+			[
+				"elemen",
+				"SASS/elements/_elements.scss"
+			],
+			[
+				"driftbroscolors",
+				"Root/wp-content/themes/driftbros/sass/variables-site/_colors.scss"
+			],
+			[
+				"fun",
+				"Theme/functions-driftbros-bbpress.php"
+			],
+			[
+				"struct",
+				"SASS/grid/_structure.scss"
+			],
+			[
+				"postspa",
+				"SASS/site/primary/_posts-and-pages.scss"
+			],
+			[
+				"formreply",
+				"DBBB Templates/form-reply.php"
+			],
+			[
+				"postsand",
+				"SASS/site/primary/_posts-and-pages.scss"
+			],
+			[
+				"driftbrosfunct",
+				"Root/wp-content/themes/driftbros/functions.php"
+			],
+			[
+				"driftbrosfunc",
+				"Root/wp-content/themes/driftbros/functions.php"
+			],
+			[
+				"variablecolo",
+				"SASS/variables-site/_colors.scss"
+			],
+			[
+				"404",
+				"Root/wp-content/themes/driftbros/404.php"
+			],
+			[
+				"contentsinglereplymi",
+				"Root/wp-content/themes/driftbros/bbpress/loop-single-reply-minimal.php"
+			],
+			[
+				"mediascss",
+				"SASS/mixins/_mixins-media.scss"
+			],
+			[
+				"driftbroscolorsscss",
+				"Root/wp-content/themes/driftbros/sass/variables-site/_colors.scss"
+			],
+			[
+				"wpconfi",
+				"Root/wp-config.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
